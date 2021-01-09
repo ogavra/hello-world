@@ -1,3 +1,7 @@
 # hello-world
 testing repository functionality
-I am Oana, living in the Netherlands with my boyfriend and two little squirrels, currently working in Sales, but looking for a career change to Front-End Developemnt. Excited to learn about Github. 
+
+Hi Beautiful People, 
+
+I am Oana, currently working in Sales, but not for long, as I am driven to become a Front-End Developer. 
+Studying on Codecademy at the moment. 
